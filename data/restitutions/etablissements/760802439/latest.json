@@ -1,0 +1,51 @@
+{
+  "finess": "760802439",
+  "raison_sociale": "MECS LES HELLANDES",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "76",
+    "dep_name": "SEINE-MARITIME",
+    "raison_sociale": "MECS LES HELLANDES",
+    "categorie": "PSPH/EBNL"
+  },
+  "site_updated_at": "2026-03-05",
+  "periodes": {
+    "2025-12": {
+      "10": {
+        "1003": {
+          "1003PA1": {
+            "nb_journees_total": "220",
+            "nb_journees_hc": "220",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "36.4%",
+            "age_moyen": "13",
+            "avq_physique": "4",
+            "avq_relationnel": "2.27",
+            "nb_actes_csarr": "4.45"
+          },
+          "1003PB1": {
+            "nb_journees_total": "460",
+            "nb_journees_hc": "460",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "52.2%",
+            "age_moyen": "11.35",
+            "avq_physique": "4",
+            "avq_relationnel": "2.57",
+            "nb_actes_csarr": "4.41"
+          }
+        }
+      },
+      "total": {
+        "nb_journees_total": "680",
+        "nb_journees_hc": "680",
+        "nb_journees_hp": "0",
+        "sexe_ratio": "47.1%",
+        "age_moyen": "11.88",
+        "avq_physique": "4",
+        "avq_relationnel": "2.47",
+        "nb_actes_csarr": "4.42"
+      }
+    }
+  }
+}

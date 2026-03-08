@@ -1,0 +1,71 @@
+{
+  "finess": "370000341",
+  "raison_sociale": "CENTRE POST CURE ALCOOL MALVAU",
+  "geo": {
+    "reg_code": "24",
+    "reg_name": "CENTRE-VAL DE LOIRE",
+    "dep_code": "37",
+    "dep_name": "INDRE-ET-LOIRE",
+    "raison_sociale": "CENTRE POST CURE ALCOOL MALVAU",
+    "categorie": "PSPH/EBNL"
+  },
+  "site_updated_at": "2026-03-05",
+  "periodes": {
+    "2025-12": {
+      "19": {
+        "1903": {
+          "1903SA1": {
+            "nb_journees_total": "6602",
+            "nb_journees_hc": "6602",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "78.6%",
+            "age_moyen": "45.7",
+            "avq_physique": "4.01",
+            "avq_relationnel": "3.89",
+            "nb_actes_csarr": "1.44"
+          },
+          "1903SA2": {
+            "nb_journees_total": "749",
+            "nb_journees_hc": "749",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "74.5%",
+            "age_moyen": "47.89",
+            "avq_physique": "4",
+            "avq_relationnel": "3.87",
+            "nb_actes_csarr": "1.4"
+          },
+          "1903UA1": {
+            "nb_journees_total": "443",
+            "nb_journees_hc": "443",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "78.3%",
+            "age_moyen": "44.88",
+            "avq_physique": "4",
+            "avq_relationnel": "3.75",
+            "nb_actes_csarr": "0.62"
+          },
+          "1903UA2": {
+            "nb_journees_total": "31",
+            "nb_journees_hc": "31",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "54.8%",
+            "age_moyen": "39.9",
+            "avq_physique": "4",
+            "avq_relationnel": "4",
+            "nb_actes_csarr": "0.77"
+          }
+        }
+      },
+      "total": {
+        "nb_journees_total": "7825",
+        "nb_journees_hc": "7825",
+        "nb_journees_hp": "0",
+        "sexe_ratio": "78.1%",
+        "age_moyen": "45.84",
+        "avq_physique": "4.01",
+        "avq_relationnel": "3.88",
+        "nb_actes_csarr": "1.39"
+      }
+    }
+  }
+}
