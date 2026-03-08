@@ -1,0 +1,53 @@
+{
+  "finess": "190009985",
+  "raison_sociale": "SMR EN ADDICTOLOGIE",
+  "geo": {
+    "reg_code": "75",
+    "reg_name": "NOUVELLE-AQUITAINE",
+    "dep_code": "19",
+    "dep_name": "CORRÈZE",
+    "raison_sociale": "SMR EN ADDICTOLOGIE",
+    "categorie": "PSPH/EBNL"
+  },
+  "site_updated_at": "2026-03-05",
+  "periodes": {
+    "2025-12": {
+      "19": {
+        "1903": {
+          "1903UA1": {
+            "nb_journees_total": "967",
+            "nb_journees_hc": "967",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "80.1%",
+            "age_moyen": "47.74",
+            "avq_physique": "4.16",
+            "avq_relationnel": "3.71",
+            "nb_actes_csarr": "0.96"
+          },
+          "1903UA2": {
+            "nb_journees_total": "167",
+            "nb_journees_hc": "167",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "92.8%",
+            "age_moyen": "42.79",
+            "avq_physique": "4.4",
+            "avq_relationnel": "3.59",
+            "nb_actes_csarr": "0.82"
+          }
+        },
+        "1909": {
+          "1909TA1": {
+            "nb_journees_total": "28",
+            "nb_journees_hc": "28",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "60.82",
+            "avq_physique": "4",
+            "avq_relationnel": "2.82",
+            "nb_actes_csarr": "0.93"
+          }
+        }
+      }
+    }
+  }
+}

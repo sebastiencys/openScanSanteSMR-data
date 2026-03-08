@@ -1,0 +1,51 @@
+{
+  "finess": "500012968",
+  "raison_sociale": "MECS GOUVILLE SUR MER",
+  "geo": {
+    "reg_code": "28",
+    "reg_name": "NORMANDIE",
+    "dep_code": "50",
+    "dep_name": "MANCHE",
+    "raison_sociale": "MECS GOUVILLE SUR MER",
+    "categorie": "PSPH/EBNL"
+  },
+  "site_updated_at": "2026-03-05",
+  "periodes": {
+    "2025-12": {
+      "10": {
+        "1003": {
+          "1003PA1": {
+            "nb_journees_total": "21",
+            "nb_journees_hc": "21",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "38.1%",
+            "age_moyen": "13",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.62"
+          },
+          "1003PB1": {
+            "nb_journees_total": "2537",
+            "nb_journees_hc": "2537",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "49.5%",
+            "age_moyen": "9.45",
+            "avq_physique": "4",
+            "avq_relationnel": "2.29",
+            "nb_actes_csarr": "4.35"
+          },
+          "1003PB2": {
+            "nb_journees_total": "52",
+            "nb_journees_hc": "52",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "75%",
+            "age_moyen": "10.25",
+            "avq_physique": "4",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "4.33"
+          }
+        }
+      }
+    }
+  }
+}
