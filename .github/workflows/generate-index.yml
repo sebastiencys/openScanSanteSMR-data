@@ -1,5 +1,8 @@
 name: Generate Data Index
 
+permissions:
+  contents: write
+
 on:
   push:
     paths:
