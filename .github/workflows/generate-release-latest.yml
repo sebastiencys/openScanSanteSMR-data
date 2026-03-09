@@ -1,0 +1,51 @@
+name: Generate release-latest.json
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  generate-release-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check release name or tag
+        id: check
+        run: |
+          NAME="${{ github.event.release.name }}"
+          TAG="${{ github.event.release.tag_name }}"
+
+          echo "Release name: $NAME"
+          echo "Release tag: $TAG"
+
+          if [[ "$NAME" == *"Nouvelles données"* ]] || [[ "$TAG" == *"data-update"* ]]; then
+            echo "match=true" >> $GITHUB_OUTPUT
+          else
+            echo "match=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Stop if release does not match criteria
+        if: steps.check.outputs.match == 'false'
+        run: |
+          echo "Release does not match criteria. Skipping."
+          exit 0
+
+      - name: Generate release-latest.json
+        run: |
+          echo "{" > release-latest.json
+          echo "  \"published_at\": \"${{ github.event.release.published_at }}\"," >> release-latest.json
+          echo "  \"name\": \"${{ github.event.release.name }}\"," >> release-latest.json
+          echo "  \"tag\": \"${{ github.event.release.tag_name }}\"" >> release-latest.json
+          echo "}" >> release-latest.json
+
+      - name: Commit release-latest.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update release-latest.json from release ${{ github.event.release.tag_name }}"
+          file_pattern: release-latest.json
