@@ -22,13 +22,14 @@ jobs:
 
       - name: Debug git state
         run: |
+          git pull
           git status
           git branch -a
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
+      #- name: Setup Node
+      #  uses: actions/setup-node@v4
+      #  with:
+      #    node-version: 20
 
       - name: Generate index
         run: node scripts/generate-index.js
