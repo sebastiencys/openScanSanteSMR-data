@@ -5,6 +5,8 @@ permissions:
 
 on:
   push:
+    branches:
+      - main
     paths:
       - "data/restitutions/etablissements/**"
   workflow_dispatch:
