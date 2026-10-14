@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-09-24",
-  "extracted_at": "2026-09-25 13:33:55",
+  "site_updated_at": "2026-10-08",
+  "extracted_at": "2026-10-14 01:08:17",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -16,15 +16,15 @@
       "finess": "010780492",
       "raison_sociale": "CRF ROMANS-FERRARI",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
-      "nb_journees_total": "1 à 10",
-      "nb_journees_hc": "1 à 10",
+      "periode": "M8",
+      "nb_journees_total": "15",
+      "nb_journees_hc": "15",
       "nb_journees_hp": "0",
-      "sexe_ratio": "NA",
-      "age_moyen": "NA",
-      "avq_physique": "NA",
-      "avq_relationnel": "NA",
-      "nb_actes_csarr": "NA"
+      "sexe_ratio": "0%",
+      "age_moyen": "18",
+      "avq_physique": "15",
+      "avq_relationnel": "2",
+      "nb_actes_csarr": "8.73"
     },
     {
       "finess": "020000261",
@@ -58,7 +58,7 @@
       "finess": "060789674",
       "raison_sociale": "CENTRE HELIO MARIN VALLAURIS",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "43",
       "nb_journees_hc": "43",
       "nb_journees_hp": "0",
@@ -67,6 +67,20 @@
       "avq_physique": "12.72",
       "avq_relationnel": "5.81",
       "nb_actes_csarr": "2"
+    },
+    {
+      "finess": "070005558",
+      "raison_sociale": "CH BOURG SAINT ANDEOL",
+      "categorie": "CH",
+      "periode": "M8",
+      "nb_journees_total": "41",
+      "nb_journees_hc": "41",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "100%",
+      "age_moyen": "69",
+      "avq_physique": "15",
+      "avq_relationnel": "5",
+      "nb_actes_csarr": "1.68"
     },
     {
       "finess": "080000136",
@@ -83,20 +97,6 @@
       "nb_actes_csarr": "1.35"
     },
     {
-      "finess": "130782451",
-      "raison_sociale": "CENTRE LE MEDITERRANEE",
-      "categorie": "Privé",
-      "periode": "M7",
-      "nb_journees_total": "84",
-      "nb_journees_hc": "84",
-      "nb_journees_hp": "0",
-      "sexe_ratio": "100%",
-      "age_moyen": "64",
-      "avq_physique": "10.25",
-      "avq_relationnel": "2.42",
-      "nb_actes_csarr": "2.02"
-    },
-    {
       "finess": "130784911",
       "raison_sociale": "CLINIQUE DE SOINS DE SUITE LA SALETTE",
       "categorie": "Privé",
@@ -109,6 +109,20 @@
       "avq_physique": "10.37",
       "avq_relationnel": "5.37",
       "nb_actes_csarr": "2.99"
+    },
+    {
+      "finess": "130809981",
+      "raison_sociale": "KORIAN MASSILIA LES PINS",
+      "categorie": "Privé",
+      "periode": "M8",
+      "nb_journees_total": "27",
+      "nb_journees_hc": "27",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "100%",
+      "age_moyen": "44",
+      "avq_physique": "15",
+      "avq_relationnel": "8",
+      "nb_actes_csarr": "2.11"
     },
     {
       "finess": "290021542",
@@ -184,7 +198,7 @@
       "finess": "370007569",
       "raison_sociale": "PÔLE SANTÉ LÉONARD DE VINCI",
       "categorie": "Privé",
-      "periode": "M6",
+      "periode": "M8",
       "nb_journees_total": "67",
       "nb_journees_hc": "67",
       "nb_journees_hp": "0",
@@ -240,7 +254,7 @@
       "finess": "660010174",
       "raison_sociale": "BOUFFARD VERCELLI SITE CH PERPIGNAN",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "90",
       "nb_journees_hc": "90",
       "nb_journees_hp": "0",
@@ -296,7 +310,7 @@
       "finess": "830100517",
       "raison_sociale": "CH DE BRIGNOLES",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "25",
       "nb_journees_hc": "25",
       "nb_journees_hp": "0",
@@ -310,7 +324,7 @@
       "finess": "870002466",
       "raison_sociale": "CH ESQUIROL",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "41",
       "nb_journees_hc": "41",
       "nb_journees_hp": "0",
@@ -367,14 +381,14 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees_total": "1476",
-      "nb_journees_hc": "1476",
+      "nb_journees_total": "1467",
+      "nb_journees_hc": "1467",
       "nb_journees_hp": "0",
-      "sexe_ratio": "69.8%",
-      "age_moyen": "57.95",
-      "avq_physique": "11.82",
-      "avq_relationnel": "4.93",
-      "nb_actes_csarr": "1.73"
+      "sexe_ratio": "69.1%",
+      "age_moyen": "57.47",
+      "avq_physique": "12.07",
+      "avq_relationnel": "5.12",
+      "nb_actes_csarr": "1.76"
     }
   ]
 }

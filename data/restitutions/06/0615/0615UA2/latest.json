@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-09-24",
-  "extracted_at": "2026-09-25 14:24:34",
+  "site_updated_at": "2026-10-08",
+  "extracted_at": "2026-10-14 03:05:08",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -16,7 +16,7 @@
       "finess": "040780132",
       "raison_sociale": "EPS PIERRE GROUES DE BARCELONNETTE",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "11",
       "nb_journees_hc": "11",
       "nb_journees_hp": "0",
@@ -30,7 +30,7 @@
       "finess": "070007927",
       "raison_sociale": "CH DES CEVENNES ARDECHOISES",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "14",
       "nb_journees_hc": "14",
       "nb_journees_hp": "0",
@@ -44,7 +44,7 @@
       "finess": "240000141",
       "raison_sociale": "CH DE ST ASTIER",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "43",
       "nb_journees_hc": "43",
       "nb_journees_hp": "0",
@@ -72,15 +72,15 @@
       "finess": "310780366",
       "raison_sociale": "CLINIQUE MONIE",
       "categorie": "Privé",
-      "periode": "M7",
-      "nb_journees_total": "12",
-      "nb_journees_hc": "12",
+      "periode": "M8",
+      "nb_journees_total": "31",
+      "nb_journees_hc": "31",
       "nb_journees_hp": "0",
-      "sexe_ratio": "0%",
-      "age_moyen": "80",
-      "avq_physique": "8",
-      "avq_relationnel": "4",
-      "nb_actes_csarr": "0.75"
+      "sexe_ratio": "61.3%",
+      "age_moyen": "73.26",
+      "avq_physique": "6.87",
+      "avq_relationnel": "3.77",
+      "nb_actes_csarr": "0.61"
     },
     {
       "finess": "420780033",
@@ -240,7 +240,7 @@
       "finess": "680000189",
       "raison_sociale": "SAINT JEAN CENTRE SSR",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "47",
       "nb_journees_hc": "47",
       "nb_journees_hp": "0",
@@ -305,6 +305,20 @@
       "avq_physique": "4",
       "avq_relationnel": "2.16",
       "nb_actes_csarr": "0.51"
+    },
+    {
+      "finess": "840000087",
+      "raison_sociale": "CH LOUIS GIORGI D'ORANGE",
+      "categorie": "CH",
+      "periode": "M8",
+      "nb_journees_total": "25",
+      "nb_journees_hc": "25",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "0%",
+      "age_moyen": "97",
+      "avq_physique": "8",
+      "avq_relationnel": "2",
+      "nb_actes_csarr": "0.72"
     },
     {
       "finess": "880009147",
@@ -381,14 +395,14 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees_total": "548",
-      "nb_journees_hc": "548",
+      "nb_journees_total": "592",
+      "nb_journees_hc": "592",
       "nb_journees_hp": "0",
-      "sexe_ratio": "38.5%",
-      "age_moyen": "84.72",
-      "avq_physique": "6",
-      "avq_relationnel": "2.54",
-      "nb_actes_csarr": "0.55"
+      "sexe_ratio": "38.9%",
+      "age_moyen": "84.73",
+      "avq_physique": "6.09",
+      "avq_relationnel": "2.55",
+      "nb_actes_csarr": "0.56"
     }
   ]
 }

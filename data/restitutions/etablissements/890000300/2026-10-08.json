@@ -1,0 +1,103 @@
+{
+  "finess": "890000300",
+  "raison_sociale": "AIHP CENTRE ARMANCON",
+  "geo": {
+    "reg_code": "27",
+    "reg_name": "BOURGOGNE-FRANCHE-COMTÉ",
+    "dep_code": "89",
+    "dep_name": "YONNE",
+    "raison_sociale": "AIHP CENTRE ARMANCON",
+    "categorie": "PSPH/EBNL"
+  },
+  "site_updated_at": "2026-10-08",
+  "periodes": {
+    "2026-08": {
+      "19": {
+        "total": {
+          "nb_journees_total": "10048",
+          "nb_journees_hc": "10048",
+          "nb_journees_hp": "0",
+          "sexe_ratio": "83.9%",
+          "age_moyen": "46.37",
+          "avq_physique": "5.02",
+          "avq_relationnel": "3.04",
+          "nb_actes_csarr": "2.08"
+        },
+        "1903": {
+          "total": {
+            "nb_journees_total": "8915",
+            "nb_journees_hc": "8915",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "83.1%",
+            "age_moyen": "46.53",
+            "avq_physique": "5.02",
+            "avq_relationnel": "3.03",
+            "nb_actes_csarr": "2.1"
+          },
+          "1903SA1": {
+            "nb_journees_total": "8832",
+            "nb_journees_hc": "8832",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "83.3%",
+            "age_moyen": "46.47",
+            "avq_physique": "5.02",
+            "avq_relationnel": "3.03",
+            "nb_actes_csarr": "2.11"
+          },
+          "1903SA2": {
+            "nb_journees_total": "32",
+            "nb_journees_hc": "32",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "0%",
+            "age_moyen": "63",
+            "avq_physique": "6",
+            "avq_relationnel": "3",
+            "nb_actes_csarr": "1.53"
+          },
+          "1903UA1": {
+            "nb_journees_total": "51",
+            "nb_journees_hc": "51",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "98%",
+            "age_moyen": "47.57",
+            "avq_physique": "5.1",
+            "avq_relationnel": "3.02",
+            "nb_actes_csarr": "1.39"
+          }
+        },
+        "1906": {
+          "total": {
+            "nb_journees_total": "1133",
+            "nb_journees_hc": "1133",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "89.7%",
+            "age_moyen": "45.11",
+            "avq_physique": "5",
+            "avq_relationnel": "3.06",
+            "nb_actes_csarr": "1.91"
+          },
+          "1906SA1": {
+            "nb_journees_total": "1133",
+            "nb_journees_hc": "1133",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "89.7%",
+            "age_moyen": "45.11",
+            "avq_physique": "5",
+            "avq_relationnel": "3.06",
+            "nb_actes_csarr": "1.91"
+          }
+        }
+      },
+      "total": {
+        "nb_journees_total": "10048",
+        "nb_journees_hc": "10048",
+        "nb_journees_hp": "0",
+        "sexe_ratio": "83.9%",
+        "age_moyen": "46.37",
+        "avq_physique": "5.02",
+        "avq_relationnel": "3.04",
+        "nb_actes_csarr": "2.08"
+      }
+    }
+  }
+}

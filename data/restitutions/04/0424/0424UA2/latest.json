@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-09-24",
-  "extracted_at": "2026-09-25 14:09:23",
+  "site_updated_at": "2026-10-08",
+  "extracted_at": "2026-10-14 02:50:05",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -16,7 +16,7 @@
       "finess": "230780082",
       "raison_sociale": "ÉTABLISSEMENT DE SANTÉ DE SAINTE FEYRE",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "43",
       "nb_journees_hc": "43",
       "nb_journees_hp": "0",
@@ -30,15 +30,15 @@
       "finess": "270000110",
       "raison_sociale": "CH VERNEUIL SUR AVRE",
       "categorie": "CH",
-      "periode": "M7",
-      "nb_journees_total": "1 à 10",
-      "nb_journees_hc": "1 à 10",
+      "periode": "M8",
+      "nb_journees_total": "11",
+      "nb_journees_hc": "11",
       "nb_journees_hp": "0",
-      "sexe_ratio": "NA",
-      "age_moyen": "NA",
-      "avq_physique": "NA",
-      "avq_relationnel": "NA",
-      "nb_actes_csarr": "NA"
+      "sexe_ratio": "100%",
+      "age_moyen": "61",
+      "avq_physique": "4",
+      "avq_relationnel": "2",
+      "nb_actes_csarr": "0.82"
     },
     {
       "finess": "280500075",
@@ -58,7 +58,7 @@
       "finess": "290000116",
       "raison_sociale": "HL LANMEUR",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "1 à 10",
       "nb_journees_hc": "1 à 10",
       "nb_journees_hp": "0",
@@ -72,7 +72,7 @@
       "finess": "310792635",
       "raison_sociale": "MAISON DE REPOS ET DE CONVALESCENCE LE MARQUISAT",
       "categorie": "Privé",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "41",
       "nb_journees_hc": "41",
       "nb_journees_hp": "0",
@@ -111,10 +111,24 @@
       "nb_actes_csarr": "NA"
     },
     {
+      "finess": "340780568",
+      "raison_sociale": "CLINIQUE DU SOUFFLE LA VALONIE",
+      "categorie": "Privé",
+      "periode": "M8",
+      "nb_journees_total": "1 à 10",
+      "nb_journees_hc": "1 à 10",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_actes_csarr": "NA"
+    },
+    {
       "finess": "340798552",
       "raison_sociale": "MAISON DE REPOS ET DE CONVALESCENCE PECH DU SOLEIL",
       "categorie": "Privé",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "28",
       "nb_journees_hc": "28",
       "nb_journees_hp": "0",
@@ -237,20 +251,6 @@
       "nb_actes_csarr": "0.47"
     },
     {
-      "finess": "760780239",
-      "raison_sociale": "CHU ROUEN",
-      "categorie": "CHR/U",
-      "periode": "M7",
-      "nb_journees_total": "1 à 10",
-      "nb_journees_hc": "1 à 10",
-      "nb_journees_hp": "0",
-      "sexe_ratio": "NA",
-      "age_moyen": "NA",
-      "avq_physique": "NA",
-      "avq_relationnel": "NA",
-      "nb_actes_csarr": "NA"
-    },
-    {
       "finess": "800000036",
       "raison_sociale": "CH D'ALBERT",
       "categorie": "CH",
@@ -293,20 +293,6 @@
       "nb_actes_csarr": "0.18"
     },
     {
-      "finess": "920300985",
-      "raison_sociale": "HÔPITAL NORD VILLENEUVE LA GARENNE 92",
-      "categorie": "PSPH/EBNL",
-      "periode": "M7",
-      "nb_journees_total": "1 à 10",
-      "nb_journees_hc": "1 à 10",
-      "nb_journees_hp": "0",
-      "sexe_ratio": "NA",
-      "age_moyen": "NA",
-      "avq_physique": "NA",
-      "avq_relationnel": "NA",
-      "nb_actes_csarr": "NA"
-    },
-    {
       "finess": "920711512",
       "raison_sociale": "CLINIQUE L AMANDIER",
       "categorie": "Privé",
@@ -339,14 +325,14 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees_total": "373",
-      "nb_journees_hc": "373",
+      "nb_journees_total": "365",
+      "nb_journees_hc": "365",
       "nb_journees_hp": "0",
-      "sexe_ratio": "84.5%",
-      "age_moyen": "65.59",
-      "avq_physique": "5.88",
-      "avq_relationnel": "2.88",
-      "nb_actes_csarr": "0.66"
+      "sexe_ratio": "84.1%",
+      "age_moyen": "65.02",
+      "avq_physique": "5.9",
+      "avq_relationnel": "2.89",
+      "nb_actes_csarr": "0.65"
     }
   ]
 }
