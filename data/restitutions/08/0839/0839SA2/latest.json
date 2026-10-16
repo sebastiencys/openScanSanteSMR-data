@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-10-08",
-  "extracted_at": "2026-10-14 03:37:15",
+  "site_updated_at": "2026-10-15",
+  "extracted_at": "2026-10-16 14:11:14",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -16,7 +16,7 @@
       "finess": "020003620",
       "raison_sociale": "CRF JACQUES FICHEUX",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "11",
       "nb_journees_hc": "11",
       "nb_journees_hp": "0",
@@ -72,15 +72,15 @@
       "finess": "220000103",
       "raison_sociale": "CH LANNION",
       "categorie": "CH",
-      "periode": "M7",
-      "nb_journees_total": "20",
-      "nb_journees_hc": "20",
+      "periode": "M8",
+      "nb_journees_total": "35",
+      "nb_journees_hc": "35",
       "nb_journees_hp": "0",
       "sexe_ratio": "0%",
       "age_moyen": "37",
       "avq_physique": "5",
-      "avq_relationnel": "2",
-      "nb_actes_csarr": "3.5"
+      "avq_relationnel": "2.11",
+      "nb_actes_csarr": "3.57"
     },
     {
       "finess": "230782617",
@@ -114,7 +114,7 @@
       "finess": "250021078",
       "raison_sociale": "CLINIQUE DU PAYS DE MONTBELIARD",
       "categorie": "Privé",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "22",
       "nb_journees_hc": "22",
       "nb_journees_hp": "0",
@@ -128,7 +128,7 @@
       "finess": "260017454",
       "raison_sociale": "DIEULEFIT SANTÉ",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "75",
       "nb_journees_hc": "75",
       "nb_journees_hp": "0",
@@ -142,7 +142,7 @@
       "finess": "290000827",
       "raison_sociale": "CHM DE ROSCOFF SITE DE TY-YANN",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "26",
       "nb_journees_hc": "26",
       "nb_journees_hp": "0",
@@ -165,6 +165,20 @@
       "avq_physique": "5.84",
       "avq_relationnel": "2",
       "nb_actes_csarr": "7.32"
+    },
+    {
+      "finess": "310781984",
+      "raison_sociale": "CLINIQUES DU MIDI VERDAICH",
+      "categorie": "Privé",
+      "periode": "M8",
+      "nb_journees_total": "15",
+      "nb_journees_hc": "15",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "100%",
+      "age_moyen": "22",
+      "avq_physique": "5",
+      "avq_relationnel": "3.33",
+      "nb_actes_csarr": "3.47"
     },
     {
       "finess": "340000025",
@@ -268,7 +282,7 @@
       "finess": "620027664",
       "raison_sociale": "ÉTABLISSEMENT HOPALE-CENTRE CALVÉ",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "117",
       "nb_journees_hc": "117",
       "nb_journees_hp": "0",
@@ -277,6 +291,20 @@
       "avq_physique": "4.24",
       "avq_relationnel": "2.34",
       "nb_actes_csarr": "3.39"
+    },
+    {
+      "finess": "660780800",
+      "raison_sociale": "SOLEIL CERDAN",
+      "categorie": "Privé",
+      "periode": "M8",
+      "nb_journees_total": "21",
+      "nb_journees_hc": "21",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "100%",
+      "age_moyen": "54",
+      "avq_physique": "4",
+      "avq_relationnel": "3",
+      "nb_actes_csarr": "2.33"
     },
     {
       "finess": "720012509",
@@ -324,7 +352,7 @@
       "finess": "920016698",
       "raison_sociale": "CMPR DU SUD PARISIEN CHATILLON",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "56",
       "nb_journees_hc": "56",
       "nb_journees_hp": "0",
@@ -381,14 +409,14 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees_total": "1134",
-      "nb_journees_hc": "1134",
+      "nb_journees_total": "1185",
+      "nb_journees_hc": "1185",
       "nb_journees_hp": "0",
-      "sexe_ratio": "44.8%",
-      "age_moyen": "43.01",
-      "avq_physique": "5.27",
-      "avq_relationnel": "2.52",
-      "nb_actes_csarr": "3.38"
+      "sexe_ratio": "45.9%",
+      "age_moyen": "42.86",
+      "avq_physique": "5.24",
+      "avq_relationnel": "2.54",
+      "nb_actes_csarr": "3.37"
     }
   ]
 }

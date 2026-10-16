@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-10-08",
-  "extracted_at": "2026-10-14 03:36:12",
+  "site_updated_at": "2026-10-15",
+  "extracted_at": "2026-10-16 14:10:01",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -16,7 +16,7 @@
       "finess": "020000063",
       "raison_sociale": "CH DE SAINT QUENTIN",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "21",
       "nb_journees_hc": "21",
       "nb_journees_hp": "0",
@@ -30,7 +30,7 @@
       "finess": "020003620",
       "raison_sociale": "CRF JACQUES FICHEUX",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "1 à 10",
       "nb_journees_hc": "1 à 10",
       "nb_journees_hp": "0",
@@ -128,7 +128,7 @@
       "finess": "330781139",
       "raison_sociale": "CRF LA TOUR DE GASSIES",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "17",
       "nb_journees_hc": "17",
       "nb_journees_hp": "0",
@@ -142,7 +142,7 @@
       "finess": "420780058",
       "raison_sociale": "CH CHARLIEU",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "37",
       "nb_journees_hc": "37",
       "nb_journees_hp": "0",
@@ -195,6 +195,20 @@
       "nb_actes_csarr": "0.57"
     },
     {
+      "finess": "510000029",
+      "raison_sociale": "CHR DE REIMS",
+      "categorie": "CHR/U",
+      "periode": "M8",
+      "nb_journees_total": "25",
+      "nb_journees_hc": "25",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "0%",
+      "age_moyen": "72",
+      "avq_physique": "6.6",
+      "avq_relationnel": "2.84",
+      "nb_actes_csarr": "1.48"
+    },
+    {
       "finess": "540005196",
       "raison_sociale": "MAISON DE CONVALESCENCE BACCARAT",
       "categorie": "Privé",
@@ -212,7 +226,7 @@
       "finess": "600100283",
       "raison_sociale": "CLINIQUE DE RÉÉDUCATION A DE ROTHSCHIL",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "55",
       "nb_journees_hc": "55",
       "nb_journees_hp": "0",
@@ -282,7 +296,7 @@
       "finess": "800000135",
       "raison_sociale": "CHIC DE LA BAIE DE SOMME",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "1 à 10",
       "nb_journees_hc": "1 à 10",
       "nb_journees_hp": "0",
@@ -321,18 +335,32 @@
       "nb_actes_csarr": "NA"
     },
     {
+      "finess": "970216016",
+      "raison_sociale": "CSMR LA VALÉRIANE",
+      "categorie": "PSPH/EBNL",
+      "periode": "M8",
+      "nb_journees_total": "37",
+      "nb_journees_hc": "37",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "0%",
+      "age_moyen": "65",
+      "avq_physique": "4.92",
+      "avq_relationnel": "3.19",
+      "nb_actes_csarr": "1.11"
+    },
+    {
       "finess": "Total",
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees_total": "630",
-      "nb_journees_hc": "630",
+      "nb_journees_total": "692",
+      "nb_journees_hc": "692",
       "nb_journees_hp": "0",
-      "sexe_ratio": "38.7%",
-      "age_moyen": "62.2",
-      "avq_physique": "5.76",
-      "avq_relationnel": "2.37",
-      "nb_actes_csarr": "1.47"
+      "sexe_ratio": "35.3%",
+      "age_moyen": "62.71",
+      "avq_physique": "5.74",
+      "avq_relationnel": "2.43",
+      "nb_actes_csarr": "1.45"
     }
   ]
 }

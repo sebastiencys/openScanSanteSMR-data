@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-10-08",
-  "extracted_at": "2026-10-14 02:51:48",
+  "site_updated_at": "2026-10-15",
+  "extracted_at": "2026-10-16 13:32:37",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -12,6 +12,20 @@
     "gpmedeco": "0503UA2"
   },
   "data": [
+    {
+      "finess": "020000048",
+      "raison_sociale": "CH GERONTOLOGIQUE",
+      "categorie": "CH",
+      "periode": "M8",
+      "nb_journees_total": "17",
+      "nb_journees_hc": "17",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "100%",
+      "age_moyen": "72",
+      "avq_physique": "8",
+      "avq_relationnel": "6",
+      "nb_actes_csarr": "0.35"
+    },
     {
       "finess": "060780145",
       "raison_sociale": "CENTRE ST DOMINIQUE",
@@ -111,20 +125,6 @@
       "nb_actes_csarr": "NA"
     },
     {
-      "finess": "370100539",
-      "raison_sociale": "MAISON DE RÉADAPTATION FONCTIONNELLE BOIS GIBERT",
-      "categorie": "PSPH/EBNL",
-      "periode": "M7",
-      "nb_journees_total": "1 à 10",
-      "nb_journees_hc": "1 à 10",
-      "nb_journees_hp": "0",
-      "sexe_ratio": "NA",
-      "age_moyen": "NA",
-      "avq_physique": "NA",
-      "avq_relationnel": "NA",
-      "nb_actes_csarr": "NA"
-    },
-    {
       "finess": "410000418",
       "raison_sociale": "INSTITUT MEDICAL DE SOLOGNE",
       "categorie": "Privé",
@@ -142,7 +142,7 @@
       "finess": "430000091",
       "raison_sociale": "CH YSSINGEAUX",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "11",
       "nb_journees_hc": "11",
       "nb_journees_hp": "0",
@@ -156,7 +156,7 @@
       "finess": "510000102",
       "raison_sociale": "CH DE SAINTE MENEHOULD",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "1 à 10",
       "nb_journees_hc": "1 à 10",
       "nb_journees_hp": "0",
@@ -181,10 +181,24 @@
       "nb_actes_csarr": "0.19"
     },
     {
+      "finess": "580780047",
+      "raison_sociale": "CH CHATEAU-CHINON",
+      "categorie": "CH",
+      "periode": "M8",
+      "nb_journees_total": "15",
+      "nb_journees_hc": "15",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "0%",
+      "age_moyen": "79",
+      "avq_physique": "4",
+      "avq_relationnel": "2",
+      "nb_actes_csarr": "0.2"
+    },
+    {
       "finess": "590781670",
       "raison_sociale": "CH LE QUESNOY",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "19",
       "nb_journees_hc": "19",
       "nb_journees_hp": "0",
@@ -195,10 +209,24 @@
       "nb_actes_csarr": "1.47"
     },
     {
+      "finess": "620100842",
+      "raison_sociale": "CRF LES HAUTOIS D'OIGNIES",
+      "categorie": "PSPH/EBNL",
+      "periode": "M8",
+      "nb_journees_total": "1 à 10",
+      "nb_journees_hc": "1 à 10",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "NA",
+      "age_moyen": "NA",
+      "avq_physique": "NA",
+      "avq_relationnel": "NA",
+      "nb_actes_csarr": "NA"
+    },
+    {
       "finess": "620101337",
       "raison_sociale": "CH DE CALAIS",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "1 à 10",
       "nb_journees_hc": "1 à 10",
       "nb_journees_hp": "0",
@@ -212,7 +240,7 @@
       "finess": "630000131",
       "raison_sociale": "CLINIQUE CARDIO PNEUMOLOGIE DURTOL",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "34",
       "nb_journees_hc": "34",
       "nb_journees_hp": "0",
@@ -223,10 +251,10 @@
       "nb_actes_csarr": "0.65"
     },
     {
-      "finess": "640780631",
-      "raison_sociale": "CENTRE GRANCHER-CYRANO",
+      "finess": "660790163",
+      "raison_sociale": "CRF LA PINEDE",
       "categorie": "Privé",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "1 à 10",
       "nb_journees_hc": "1 à 10",
       "nb_journees_hp": "0",
@@ -240,15 +268,15 @@
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M7",
-      "nb_journees_total": "73",
-      "nb_journees_hc": "73",
+      "periode": "M8",
+      "nb_journees_total": "119",
+      "nb_journees_hc": "119",
       "nb_journees_hp": "0",
-      "sexe_ratio": "42.5%",
-      "age_moyen": "64.59",
+      "sexe_ratio": "50.4%",
+      "age_moyen": "61.12",
       "avq_physique": "4",
       "avq_relationnel": "2",
-      "nb_actes_csarr": "0.36"
+      "nb_actes_csarr": "0.28"
     },
     {
       "finess": "770803989",
@@ -282,7 +310,7 @@
       "finess": "800000077",
       "raison_sociale": "CH DE HAM",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "34",
       "nb_journees_hc": "34",
       "nb_journees_hp": "0",
@@ -324,7 +352,7 @@
       "finess": "880780507",
       "raison_sociale": "MAISON DE REPOS ET DE CONVALESCENCE SENONES",
       "categorie": "Privé",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "29",
       "nb_journees_hc": "29",
       "nb_journees_hp": "0",
@@ -338,7 +366,7 @@
       "finess": "890000318",
       "raison_sociale": "ÉTABLISSEMENT SOINS DE SUITE LE PETIT PIEN",
       "categorie": "Privé",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "14",
       "nb_journees_hc": "14",
       "nb_journees_hp": "0",
@@ -381,14 +409,14 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees_total": "463",
-      "nb_journees_hc": "463",
+      "nb_journees_total": "539",
+      "nb_journees_hc": "539",
       "nb_journees_hp": "0",
-      "sexe_ratio": "64.1%",
-      "age_moyen": "68.45",
-      "avq_physique": "4.87",
-      "avq_relationnel": "2.32",
-      "nb_actes_csarr": "0.65"
+      "sexe_ratio": "63.3%",
+      "age_moyen": "68.2",
+      "avq_physique": "4.86",
+      "avq_relationnel": "2.4",
+      "nb_actes_csarr": "0.59"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-10-08",
-  "extracted_at": "2026-10-14 04:20:52",
+  "site_updated_at": "2026-10-15",
+  "extracted_at": "2026-10-16 14:54:49",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -44,7 +44,7 @@
       "finess": "130784903",
       "raison_sociale": "CLINIQUE MÉDICO-CHIRURGICALE LA PHOCEANNE",
       "categorie": "Privé",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "20",
       "nb_journees_hc": "20",
       "nb_journees_hp": "0",
@@ -81,6 +81,48 @@
       "avq_physique": "4",
       "avq_relationnel": "2",
       "nb_actes_csarr": "0.18"
+    },
+    {
+      "finess": "220021968",
+      "raison_sociale": "CH DE LAMBALLE",
+      "categorie": "CH",
+      "periode": "M8",
+      "nb_journees_total": "28",
+      "nb_journees_hc": "28",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "0%",
+      "age_moyen": "59",
+      "avq_physique": "5.29",
+      "avq_relationnel": "2.71",
+      "nb_actes_csarr": "0.82"
+    },
+    {
+      "finess": "390780146",
+      "raison_sociale": "CH JURA SUD",
+      "categorie": "CH",
+      "periode": "M8",
+      "nb_journees_total": "17",
+      "nb_journees_hc": "17",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "0%",
+      "age_moyen": "81",
+      "avq_physique": "5.35",
+      "avq_relationnel": "2",
+      "nb_actes_csarr": "0.18"
+    },
+    {
+      "finess": "420780033",
+      "raison_sociale": "CH ROANNE",
+      "categorie": "CH",
+      "periode": "M8",
+      "nb_journees_total": "11",
+      "nb_journees_hc": "11",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "0%",
+      "age_moyen": "85",
+      "avq_physique": "5",
+      "avq_relationnel": "2",
+      "nb_actes_csarr": "1.09"
     },
     {
       "finess": "490534922",
@@ -139,20 +181,6 @@
       "nb_actes_csarr": "1.22"
     },
     {
-      "finess": "600100283",
-      "raison_sociale": "CLINIQUE DE RÉÉDUCATION A DE ROTHSCHIL",
-      "categorie": "PSPH/EBNL",
-      "periode": "M7",
-      "nb_journees_total": "33",
-      "nb_journees_hc": "33",
-      "nb_journees_hp": "0",
-      "sexe_ratio": "0%",
-      "age_moyen": "78",
-      "avq_physique": "4",
-      "avq_relationnel": "2.42",
-      "nb_actes_csarr": "0.88"
-    },
-    {
       "finess": "610790594",
       "raison_sociale": "CHIC DES ANDAINES",
       "categorie": "CH",
@@ -184,7 +212,7 @@
       "finess": "690781810",
       "raison_sociale": "HOSPICES CIVILS DE LYON",
       "categorie": "CHR/U",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "32",
       "nb_journees_hc": "32",
       "nb_journees_hp": "0",
@@ -213,14 +241,14 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees_total": "512",
-      "nb_journees_hc": "512",
+      "nb_journees_total": "535",
+      "nb_journees_hc": "535",
       "nb_journees_hp": "0",
       "sexe_ratio": "0%",
-      "age_moyen": "76.86",
-      "avq_physique": "5.63",
-      "avq_relationnel": "2.89",
-      "nb_actes_csarr": "0.89"
+      "age_moyen": "76.15",
+      "avq_physique": "5.69",
+      "avq_relationnel": "2.86",
+      "nb_actes_csarr": "0.87"
     }
   ]
 }

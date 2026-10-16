@@ -1,6 +1,6 @@
 {
-  "site_updated_at": "2026-10-08",
-  "extracted_at": "2026-10-14 04:27:17",
+  "site_updated_at": "2026-10-15",
+  "extracted_at": "2026-10-16 15:01:37",
   "search_context": {
     "annee": "2026",
     "tgeo": "fe",
@@ -16,15 +16,15 @@
       "finess": "020000303",
       "raison_sociale": "HÔPITAL VILLIERS SAINT DENIS",
       "categorie": "PSPH/EBNL",
-      "periode": "M7",
-      "nb_journees_total": "11",
-      "nb_journees_hc": "11",
+      "periode": "M8",
+      "nb_journees_total": "37",
+      "nb_journees_hc": "37",
       "nb_journees_hp": "0",
       "sexe_ratio": "100%",
       "age_moyen": "65",
-      "avq_physique": "10.64",
+      "avq_physique": "10.57",
       "avq_relationnel": "4",
-      "nb_actes_csarr": "1.45"
+      "nb_actes_csarr": "1.65"
     },
     {
       "finess": "310780366",
@@ -39,6 +39,20 @@
       "avq_physique": "6",
       "avq_relationnel": "7",
       "nb_actes_csarr": "0.24"
+    },
+    {
+      "finess": "330781253",
+      "raison_sociale": "CH DE LIBOURNE",
+      "categorie": "CH",
+      "periode": "M8",
+      "nb_journees_total": "14",
+      "nb_journees_hc": "14",
+      "nb_journees_hp": "0",
+      "sexe_ratio": "0%",
+      "age_moyen": "86",
+      "avq_physique": "12",
+      "avq_relationnel": "6",
+      "nb_actes_csarr": "4.29"
     },
     {
       "finess": "340798552",
@@ -86,14 +100,14 @@
       "finess": "750712184",
       "raison_sociale": "AP-HP",
       "categorie": "CHR/U",
-      "periode": "M7",
-      "nb_journees_total": "134",
-      "nb_journees_hc": "134",
+      "periode": "M8",
+      "nb_journees_total": "165",
+      "nb_journees_hc": "165",
       "nb_journees_hp": "0",
-      "sexe_ratio": "14.9%",
-      "age_moyen": "54.82",
-      "avq_physique": "5.93",
-      "avq_relationnel": "2.56",
+      "sexe_ratio": "12.1%",
+      "age_moyen": "52.93",
+      "avq_physique": "5.62",
+      "avq_relationnel": "2.47",
       "nb_actes_csarr": "0.38"
     },
     {
@@ -142,7 +156,7 @@
       "finess": "920110020",
       "raison_sociale": "CASH DE NANTERRE",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "29",
       "nb_journees_hc": "29",
       "nb_journees_hp": "0",
@@ -170,7 +184,7 @@
       "finess": "950300301",
       "raison_sociale": "CLINIQUE MEDICALE DU PARC ST OUEN",
       "categorie": "Privé",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "1 à 10",
       "nb_journees_hc": "1 à 10",
       "nb_journees_hp": "0",
@@ -212,7 +226,7 @@
       "finess": "970100194",
       "raison_sociale": "CH BEAUPERTHUY",
       "categorie": "CH",
-      "periode": "M7",
+      "periode": "M8",
       "nb_journees_total": "23",
       "nb_journees_hc": "23",
       "nb_journees_hp": "0",
@@ -227,14 +241,14 @@
       "raison_sociale": "Total",
       "categorie": "Total",
       "periode": "Total",
-      "nb_journees_total": "1690",
-      "nb_journees_hc": "1690",
+      "nb_journees_total": "1761",
+      "nb_journees_hc": "1761",
       "nb_journees_hp": "0",
-      "sexe_ratio": "62.1%",
-      "age_moyen": "54.1",
-      "avq_physique": "7.75",
-      "avq_relationnel": "4.86",
-      "nb_actes_csarr": "0.89"
+      "sexe_ratio": "61.1%",
+      "age_moyen": "54.35",
+      "avq_physique": "7.76",
+      "avq_relationnel": "4.8",
+      "nb_actes_csarr": "0.92"
     }
   ]
 }

@@ -9,49 +9,71 @@
     "raison_sociale": "GCS ASHC CH BEDARIEUX",
     "categorie": "PSPH/EBNL"
   },
-  "site_updated_at": "2026-10-08",
+  "site_updated_at": "2026-10-15",
   "periodes": {
-    "2026-07": {
+    "2026-08": {
       "01": {
         "total": {
-          "nb_journees_total": "837",
-          "nb_journees_hc": "837",
+          "nb_journees_total": "922",
+          "nb_journees_hc": "922",
           "nb_journees_hp": "0",
-          "sexe_ratio": "38.5%",
-          "age_moyen": "85.37",
-          "avq_physique": "12.04",
-          "avq_relationnel": "5.93",
-          "nb_actes_csarr": "0.22"
+          "sexe_ratio": "38%",
+          "age_moyen": "84.69",
+          "avq_physique": "11.99",
+          "avq_relationnel": "5.76",
+          "nb_actes_csarr": "0.24"
+        },
+        "0118": {
+          "total": {
+            "nb_journees_total": "28",
+            "nb_journees_hc": "28",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "80",
+            "avq_physique": "10",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "0.71"
+          },
+          "0118SB2": {
+            "nb_journees_total": "28",
+            "nb_journees_hc": "28",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "80",
+            "avq_physique": "10",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "0.71"
+          }
         },
         "0127": {
           "total": {
-            "nb_journees_total": "656",
-            "nb_journees_hc": "656",
+            "nb_journees_total": "685",
+            "nb_journees_hc": "685",
             "nb_journees_hp": "0",
-            "sexe_ratio": "26.7%",
-            "age_moyen": "85.48",
-            "avq_physique": "11.61",
-            "avq_relationnel": "5.91",
-            "nb_actes_csarr": "0.21"
+            "sexe_ratio": "25.5%",
+            "age_moyen": "85.46",
+            "avq_physique": "11.56",
+            "avq_relationnel": "5.84",
+            "nb_actes_csarr": "0.22"
           },
           "0127UB1": {
-            "nb_journees_total": "155",
-            "nb_journees_hc": "155",
+            "nb_journees_total": "162",
+            "nb_journees_hc": "162",
             "nb_journees_hp": "0",
-            "sexe_ratio": "9%",
-            "age_moyen": "85.05",
-            "avq_physique": "10.86",
-            "avq_relationnel": "5.18",
+            "sexe_ratio": "8.6%",
+            "age_moyen": "84.75",
+            "avq_physique": "10.78",
+            "avq_relationnel": "5.17",
             "nb_actes_csarr": "0.17"
           },
           "0127UB2": {
-            "nb_journees_total": "250",
-            "nb_journees_hc": "250",
+            "nb_journees_total": "272",
+            "nb_journees_hc": "272",
             "nb_journees_hp": "0",
-            "sexe_ratio": "30%",
-            "age_moyen": "85.13",
-            "avq_physique": "10.24",
-            "avq_relationnel": "5.02",
+            "sexe_ratio": "27.6%",
+            "age_moyen": "85.28",
+            "avq_physique": "10.3",
+            "avq_relationnel": "4.94",
             "nb_actes_csarr": "0.21"
           },
           "0127UC1": {
@@ -77,23 +99,23 @@
         },
         "0130": {
           "total": {
-            "nb_journees_total": "122",
-            "nb_journees_hc": "122",
+            "nb_journees_total": "150",
+            "nb_journees_hc": "150",
             "nb_journees_hp": "0",
-            "sexe_ratio": "89.3%",
-            "age_moyen": "87.59",
-            "avq_physique": "14.7",
-            "avq_relationnel": "6.65",
+            "sexe_ratio": "72.7%",
+            "age_moyen": "84.12",
+            "avq_physique": "14.57",
+            "avq_relationnel": "6.53",
             "nb_actes_csarr": "0.29"
           },
           "0130UC1": {
-            "nb_journees_total": "122",
-            "nb_journees_hc": "122",
+            "nb_journees_total": "150",
+            "nb_journees_hc": "150",
             "nb_journees_hp": "0",
-            "sexe_ratio": "89.3%",
-            "age_moyen": "87.59",
-            "avq_physique": "14.7",
-            "avq_relationnel": "6.65",
+            "sexe_ratio": "72.7%",
+            "age_moyen": "84.12",
+            "avq_physique": "14.57",
+            "avq_relationnel": "6.53",
             "nb_actes_csarr": "0.29"
           }
         },
@@ -230,14 +252,14 @@
       },
       "05": {
         "total": {
-          "nb_journees_total": "236",
-          "nb_journees_hc": "236",
+          "nb_journees_total": "260",
+          "nb_journees_hc": "260",
           "nb_journees_hp": "0",
-          "sexe_ratio": "75.4%",
-          "age_moyen": "80.35",
-          "avq_physique": "10.94",
-          "avq_relationnel": "4.7",
-          "nb_actes_csarr": "0.32"
+          "sexe_ratio": "77.7%",
+          "age_moyen": "78.84",
+          "avq_physique": "10.57",
+          "avq_relationnel": "4.58",
+          "nb_actes_csarr": "0.35"
         },
         "0512": {
           "total": {
@@ -325,24 +347,24 @@
         },
         "0518": {
           "total": {
-            "nb_journees_total": "78",
-            "nb_journees_hc": "78",
+            "nb_journees_total": "102",
+            "nb_journees_hc": "102",
             "nb_journees_hp": "0",
             "sexe_ratio": "100%",
-            "age_moyen": "73",
-            "avq_physique": "7.95",
-            "avq_relationnel": "3.6",
-            "nb_actes_csarr": "0.27"
+            "age_moyen": "70.88",
+            "avq_physique": "7.73",
+            "avq_relationnel": "3.56",
+            "nb_actes_csarr": "0.34"
           },
           "0518UA2": {
-            "nb_journees_total": "24",
-            "nb_journees_hc": "24",
+            "nb_journees_total": "48",
+            "nb_journees_hc": "48",
             "nb_journees_hp": "0",
             "sexe_ratio": "100%",
             "age_moyen": "64",
             "avq_physique": "7",
-            "avq_relationnel": "4",
-            "nb_actes_csarr": "0.33"
+            "avq_relationnel": "3.71",
+            "nb_actes_csarr": "0.46"
           },
           "0518UB2": {
             "nb_journees_total": "54",
@@ -468,14 +490,14 @@
       },
       "08": {
         "total": {
-          "nb_journees_total": "839",
-          "nb_journees_hc": "839",
+          "nb_journees_total": "998",
+          "nb_journees_hc": "998",
           "nb_journees_hp": "0",
-          "sexe_ratio": "57.8%",
-          "age_moyen": "84.14",
-          "avq_physique": "11.35",
-          "avq_relationnel": "4.02",
-          "nb_actes_csarr": "0.46"
+          "sexe_ratio": "57.4%",
+          "age_moyen": "85.73",
+          "avq_physique": "11.46",
+          "avq_relationnel": "3.95",
+          "nb_actes_csarr": "0.61"
         },
         "0803": {
           "total": {
@@ -523,24 +545,24 @@
         },
         "0827": {
           "total": {
-            "nb_journees_total": "49",
-            "nb_journees_hc": "49",
+            "nb_journees_total": "77",
+            "nb_journees_hc": "77",
             "nb_journees_hp": "0",
             "sexe_ratio": "100%",
             "age_moyen": "101",
-            "avq_physique": "14.71",
-            "avq_relationnel": "5.86",
-            "nb_actes_csarr": "0.35"
+            "avq_physique": "13.73",
+            "avq_relationnel": "5.55",
+            "nb_actes_csarr": "1.23"
           },
-          "0827UC1": {
-            "nb_journees_total": "49",
-            "nb_journees_hc": "49",
+          "0827TC1": {
+            "nb_journees_total": "77",
+            "nb_journees_hc": "77",
             "nb_journees_hp": "0",
             "sexe_ratio": "100%",
             "age_moyen": "101",
-            "avq_physique": "14.71",
-            "avq_relationnel": "5.86",
-            "nb_actes_csarr": "0.35"
+            "avq_physique": "13.73",
+            "avq_relationnel": "5.55",
+            "nb_actes_csarr": "1.23"
           }
         },
         "0831": {
@@ -577,34 +599,34 @@
         },
         "0833": {
           "total": {
-            "nb_journees_total": "169",
-            "nb_journees_hc": "169",
+            "nb_journees_total": "212",
+            "nb_journees_hc": "212",
             "nb_journees_hp": "0",
-            "sexe_ratio": "42%",
-            "age_moyen": "81.54",
-            "avq_physique": "11.51",
-            "avq_relationnel": "4.64",
+            "sexe_ratio": "33.5%",
+            "age_moyen": "83.06",
+            "avq_physique": "11.52",
+            "avq_relationnel": "4.11",
             "nb_actes_csarr": "0.31"
           },
           "0833UA1": {
-            "nb_journees_total": "21",
-            "nb_journees_hc": "21",
+            "nb_journees_total": "36",
+            "nb_journees_hc": "36",
             "nb_journees_hp": "0",
             "sexe_ratio": "0%",
             "age_moyen": "89",
-            "avq_physique": "8",
+            "avq_physique": "7.58",
             "avq_relationnel": "2",
-            "nb_actes_csarr": "0.52"
+            "nb_actes_csarr": "0.39"
           },
           "0833UC1": {
-            "nb_journees_total": "148",
-            "nb_journees_hc": "148",
+            "nb_journees_total": "176",
+            "nb_journees_hc": "176",
             "nb_journees_hp": "0",
-            "sexe_ratio": "48%",
-            "age_moyen": "80.49",
-            "avq_physique": "12.01",
-            "avq_relationnel": "5.02",
-            "nb_actes_csarr": "0.28"
+            "sexe_ratio": "40.3%",
+            "age_moyen": "81.84",
+            "avq_physique": "12.32",
+            "avq_relationnel": "4.54",
+            "nb_actes_csarr": "0.3"
           }
         },
         "0836": {
@@ -641,14 +663,24 @@
         },
         "0837": {
           "total": {
-            "nb_journees_total": "1 à 10",
-            "nb_journees_hc": "1 à 10",
+            "nb_journees_total": "32",
+            "nb_journees_hc": "32",
             "nb_journees_hp": "0",
-            "sexe_ratio": "NA",
-            "age_moyen": "NA",
-            "avq_physique": "NA",
-            "avq_relationnel": "NA",
-            "nb_actes_csarr": "NA"
+            "sexe_ratio": "68.8%",
+            "age_moyen": "94.06",
+            "avq_physique": "9.97",
+            "avq_relationnel": "3.25",
+            "nb_actes_csarr": "1.41"
+          },
+          "0837TB1": {
+            "nb_journees_total": "22",
+            "nb_journees_hc": "22",
+            "nb_journees_hp": "0",
+            "sexe_ratio": "100%",
+            "age_moyen": "100",
+            "avq_physique": "10",
+            "avq_relationnel": "2",
+            "nb_actes_csarr": "1.95"
           },
           "0837UB2": {
             "nb_journees_total": "1 à 10",
@@ -663,46 +695,46 @@
         },
         "0838": {
           "total": {
-            "nb_journees_total": "1 à 10",
-            "nb_journees_hc": "1 à 10",
+            "nb_journees_total": "22",
+            "nb_journees_hc": "22",
             "nb_journees_hp": "0",
-            "sexe_ratio": "NA",
-            "age_moyen": "NA",
-            "avq_physique": "NA",
-            "avq_relationnel": "NA",
-            "nb_actes_csarr": "NA"
+            "sexe_ratio": "100%",
+            "age_moyen": "87",
+            "avq_physique": "13.09",
+            "avq_relationnel": "6.68",
+            "nb_actes_csarr": "0.55"
           },
           "0838UB1": {
-            "nb_journees_total": "1 à 10",
-            "nb_journees_hc": "1 à 10",
+            "nb_journees_total": "22",
+            "nb_journees_hc": "22",
             "nb_journees_hp": "0",
-            "sexe_ratio": "NA",
-            "age_moyen": "NA",
-            "avq_physique": "NA",
-            "avq_relationnel": "NA",
-            "nb_actes_csarr": "NA"
+            "sexe_ratio": "100%",
+            "age_moyen": "87",
+            "avq_physique": "13.09",
+            "avq_relationnel": "6.68",
+            "nb_actes_csarr": "0.55"
           }
         },
         "0870": {
           "total": {
-            "nb_journees_total": "12",
-            "nb_journees_hc": "12",
+            "nb_journees_total": "40",
+            "nb_journees_hc": "40",
             "nb_journees_hp": "0",
             "sexe_ratio": "0%",
             "age_moyen": "101",
-            "avq_physique": "13.58",
-            "avq_relationnel": "3.17",
-            "nb_actes_csarr": "0.17"
+            "avq_physique": "13.88",
+            "avq_relationnel": "3.75",
+            "nb_actes_csarr": "0.35"
           },
           "0870UC1": {
-            "nb_journees_total": "12",
-            "nb_journees_hc": "12",
+            "nb_journees_total": "40",
+            "nb_journees_hc": "40",
             "nb_journees_hp": "0",
             "sexe_ratio": "0%",
             "age_moyen": "101",
-            "avq_physique": "13.58",
-            "avq_relationnel": "3.17",
-            "nb_actes_csarr": "0.17"
+            "avq_physique": "13.88",
+            "avq_relationnel": "3.75",
+            "nb_actes_csarr": "0.35"
           }
         },
         "0872": {
@@ -739,24 +771,24 @@
         },
         "0874": {
           "total": {
-            "nb_journees_total": "153",
-            "nb_journees_hc": "153",
+            "nb_journees_total": "176",
+            "nb_journees_hc": "176",
             "nb_journees_hp": "0",
             "sexe_ratio": "100%",
-            "age_moyen": "86.42",
-            "avq_physique": "12.97",
-            "avq_relationnel": "3.6",
-            "nb_actes_csarr": "0.88"
+            "age_moyen": "86.36",
+            "avq_physique": "12.88",
+            "avq_relationnel": "3.57",
+            "nb_actes_csarr": "1.11"
           },
           "0874TC2": {
-            "nb_journees_total": "63",
-            "nb_journees_hc": "63",
+            "nb_journees_total": "86",
+            "nb_journees_hc": "86",
             "nb_journees_hp": "0",
             "sexe_ratio": "100%",
             "age_moyen": "86",
-            "avq_physique": "14",
-            "avq_relationnel": "3",
-            "nb_actes_csarr": "1.24"
+            "avq_physique": "13.52",
+            "avq_relationnel": "3.1",
+            "nb_actes_csarr": "1.62"
           },
           "0874UB2": {
             "nb_journees_total": "24",
@@ -878,14 +910,14 @@
       },
       "09": {
         "total": {
-          "nb_journees_total": "85",
-          "nb_journees_hc": "85",
+          "nb_journees_total": "87",
+          "nb_journees_hc": "87",
           "nb_journees_hp": "0",
-          "sexe_ratio": "55.3%",
-          "age_moyen": "83.81",
-          "avq_physique": "8.87",
-          "avq_relationnel": "3.26",
-          "nb_actes_csarr": "0.21"
+          "sexe_ratio": "56.3%",
+          "age_moyen": "84",
+          "avq_physique": "8.85",
+          "avq_relationnel": "3.23",
+          "nb_actes_csarr": "0.22"
         },
         "0909": {
           "total": {
@@ -921,58 +953,58 @@
         },
         "0918": {
           "total": {
-            "nb_journees_total": "14",
-            "nb_journees_hc": "14",
+            "nb_journees_total": "16",
+            "nb_journees_hc": "16",
             "nb_journees_hp": "0",
             "sexe_ratio": "100%",
             "age_moyen": "92",
             "avq_physique": "8",
             "avq_relationnel": "2",
-            "nb_actes_csarr": "0.14"
+            "nb_actes_csarr": "0.19"
           },
           "0918UA1": {
-            "nb_journees_total": "14",
-            "nb_journees_hc": "14",
+            "nb_journees_total": "16",
+            "nb_journees_hc": "16",
             "nb_journees_hp": "0",
             "sexe_ratio": "100%",
             "age_moyen": "92",
             "avq_physique": "8",
             "avq_relationnel": "2",
-            "nb_actes_csarr": "0.14"
+            "nb_actes_csarr": "0.19"
           }
         }
       },
       "10": {
         "total": {
-          "nb_journees_total": "140",
-          "nb_journees_hc": "140",
+          "nb_journees_total": "167",
+          "nb_journees_hc": "167",
           "nb_journees_hp": "0",
-          "sexe_ratio": "39.3%",
-          "age_moyen": "91.01",
-          "avq_physique": "12.23",
-          "avq_relationnel": "3.74",
-          "nb_actes_csarr": "0.21"
+          "sexe_ratio": "32.9%",
+          "age_moyen": "91.67",
+          "avq_physique": "11.96",
+          "avq_relationnel": "3.81",
+          "nb_actes_csarr": "0.22"
         },
         "1007": {
           "total": {
-            "nb_journees_total": "140",
-            "nb_journees_hc": "140",
+            "nb_journees_total": "167",
+            "nb_journees_hc": "167",
             "nb_journees_hp": "0",
-            "sexe_ratio": "39.3%",
-            "age_moyen": "91.01",
-            "avq_physique": "12.23",
-            "avq_relationnel": "3.74",
-            "nb_actes_csarr": "0.21"
+            "sexe_ratio": "32.9%",
+            "age_moyen": "91.67",
+            "avq_physique": "11.96",
+            "avq_relationnel": "3.81",
+            "nb_actes_csarr": "0.22"
           },
-          "1007UB1": {
-            "nb_journees_total": "60",
-            "nb_journees_hc": "60",
+          "1007UB2": {
+            "nb_journees_total": "84",
+            "nb_journees_hc": "84",
             "nb_journees_hp": "0",
             "sexe_ratio": "0%",
             "age_moyen": "96",
-            "avq_physique": "10.18",
+            "avq_physique": "10.13",
             "avq_relationnel": "4",
-            "nb_actes_csarr": "0.28"
+            "nb_actes_csarr": "0.27"
           },
           "1007UC1": {
             "nb_journees_total": "55",
@@ -985,14 +1017,14 @@
             "nb_actes_csarr": "0.16"
           },
           "1007UC2": {
-            "nb_journees_total": "25",
-            "nb_journees_hc": "25",
+            "nb_journees_total": "28",
+            "nb_journees_hc": "28",
             "nb_journees_hp": "0",
             "sexe_ratio": "0%",
-            "age_moyen": "87.84",
-            "avq_physique": "14.28",
+            "age_moyen": "87.86",
+            "avq_physique": "14.36",
             "avq_relationnel": "6",
-            "nb_actes_csarr": "0.16"
+            "nb_actes_csarr": "0.18"
           }
         }
       },
@@ -1150,35 +1182,35 @@
       },
       "19": {
         "total": {
-          "nb_journees_total": "706",
-          "nb_journees_hc": "706",
+          "nb_journees_total": "738",
+          "nb_journees_hc": "738",
           "nb_journees_hp": "0",
-          "sexe_ratio": "38.1%",
-          "age_moyen": "60.19",
-          "avq_physique": "5.74",
-          "avq_relationnel": "3.91",
-          "nb_actes_csarr": "0.73"
+          "sexe_ratio": "40.8%",
+          "age_moyen": "59.96",
+          "avq_physique": "5.72",
+          "avq_relationnel": "3.98",
+          "nb_actes_csarr": "0.76"
         },
         "1903": {
           "total": {
-            "nb_journees_total": "441",
-            "nb_journees_hc": "441",
+            "nb_journees_total": "473",
+            "nb_journees_hc": "473",
             "nb_journees_hp": "0",
-            "sexe_ratio": "61%",
-            "age_moyen": "51.79",
-            "avq_physique": "4.4",
-            "avq_relationnel": "3.86",
-            "nb_actes_csarr": "0.93"
+            "sexe_ratio": "63.6%",
+            "age_moyen": "52",
+            "avq_physique": "4.46",
+            "avq_relationnel": "3.98",
+            "nb_actes_csarr": "0.96"
           },
           "1903SA1": {
-            "nb_journees_total": "354",
-            "nb_journees_hc": "354",
+            "nb_journees_total": "386",
+            "nb_journees_hc": "386",
             "nb_journees_hp": "0",
-            "sexe_ratio": "51.4%",
-            "age_moyen": "53.9",
-            "avq_physique": "4.5",
-            "avq_relationnel": "3.71",
-            "nb_actes_csarr": "0.92"
+            "sexe_ratio": "55.4%",
+            "age_moyen": "53.98",
+            "avq_physique": "4.56",
+            "avq_relationnel": "3.87",
+            "nb_actes_csarr": "0.96"
           },
           "1903SA2": {
             "nb_journees_total": "87",
@@ -1353,14 +1385,14 @@
         }
       },
       "total": {
-        "nb_journees_total": "3790",
-        "nb_journees_hc": "3790",
+        "nb_journees_total": "4119",
+        "nb_journees_hc": "4119",
         "nb_journees_hp": "0",
-        "sexe_ratio": "48.5%",
-        "age_moyen": "80.17",
-        "avq_physique": "10.55",
-        "avq_relationnel": "4.59",
-        "nb_actes_csarr": "0.4"
+        "sexe_ratio": "48.9%",
+        "age_moyen": "80.48",
+        "avq_physique": "10.57",
+        "avq_relationnel": "4.54",
+        "nb_actes_csarr": "0.45"
       }
     }
   }
